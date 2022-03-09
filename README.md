@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Linkedin Badge](www.linkedin.com/in/karimaboshamia)
-
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KarimAboshamia.KarimAboshamia)
 
 ### About me
@@ -9,8 +8,7 @@ I'm interested in collaborating on open source projects and help providing neat 
 
 
 [1]:https://cu.edu.eg/Home
-
-
+[2]:www.linkedin.com/in/karimaboshamia
 
 
 - 📫 How to reach me: ...
