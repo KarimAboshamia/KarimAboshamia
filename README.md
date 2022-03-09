@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**KarimAboshamia/KarimAboshamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 🔭 I’m currently working on my bachelor degree in computer science at [Cairo University][1]
+"Cairo University", I'm improving my Software Engineering skills and learning Android. I'm very passionate about new ideas and tech solutions.
+I'm interested in collaborating on open source projects and help providing neat solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+[1]:https://cu.edu.eg/Home
+
+-
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Fun fact: 
