@@ -22,7 +22,7 @@ I'm interested in collaborating on open source projects and help providing neat 
 - [Memory Game](https://github.com/KarimAboshamia/Memory-Game) (2018)
 - [Feed Reader Testing](https://github.com/KarimAboshamia/Feed-Reader-Testing) (2018)
 
-### Uncompleted Pronjects
+### Uncompleted Projects
 - [PrimeEV electric cars chargers e-commerce](https://github.com/KarimAboshamia/primeEVDev)
 
 ### University Projects
