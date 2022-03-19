@@ -20,7 +20,7 @@ I'm interested in collaborating on open source projects and help providing neat 
 
 - [Arcade Game](https://github.com/KarimAboshamia/Arcade-Game) (2018)
 - [Memory Game](https://github.com/KarimAboshamia/Memory-Game) (2018)
-- [Feeed Reader Testing](https://github.com/KarimAboshamia/Feed-Reader-Testing) (2018)
+- [Feed Reader Testing](https://github.com/KarimAboshamia/Feed-Reader-Testing) (2018)
 
 ### Uncompleted Pronjects
 - [PrimeEV electric cars chargers e-commerce](https://github.com/KarimAboshamia/primeEVDev)
