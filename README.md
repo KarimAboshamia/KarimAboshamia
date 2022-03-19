@@ -18,8 +18,28 @@ I'm interested in collaborating on open source projects and help providing neat 
 ## 👨🏻‍💻 My Projects
 ### Udacity-Google Projects
 
+- [Arcade Game](https://github.com/KarimAboshamia/Arcade-Game) (2018)
+- [Memory Game](https://github.com/KarimAboshamia/Memory-Game) (2018)
+- [Feeed Reader Testing](https://github.com/KarimAboshamia/Feed-Reader-Testing) (2018)
+
 ### Uncompleted Pronjects
+- [PrimeEV electric cars chargers e-commerce](https://github.com/KarimAboshamia/primeEVDev)
+
 ### University Projects
+#### Computer architecture
+- [Sum and average calculator in assembly](https://github.com/KarimAboshamia/Sum_AVG_Assembly)
+- [ALU in verilog](https://github.com/KarimAboshamia/Verilog_ALU)
+
+### Operating Systems
+- [CPU scheduler Simulator](https://github.com/KarimAboshamia/CPU_Scheduler_Simulator)
+- [Router Simulator](https://github.com/KarimAboshamia/OSRouter)
+### Software Engineering
+- [Rent a playground](https://github.com/KarimAboshamia/GoFo-FCAI-Project)
+#### Networking
+- [SMTP multiple servers](https://github.com/KarimAboshamia/SMTP-Multiple-servers-)
+
+### Web technology
+- [Library System web application](https://github.com/KarimAboshamia/Library_System-Django-)
 
 
-- ⚡ Fun fact: In order
+- ⚡ Fun fact: I'm becoming a professional table tennis player
