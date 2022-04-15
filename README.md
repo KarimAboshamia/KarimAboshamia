@@ -26,6 +26,7 @@ I'm interested in collaborating on open source projects and help providing neat 
 - [PrimeEV electric cars chargers e-commerce](https://github.com/KarimAboshamia/primeEVDev)
 
 ### University Projects
+
 #### Computer architecture
 - [Sum and average calculator in assembly](https://github.com/KarimAboshamia/Sum_AVG_Assembly)
 - [ALU in verilog](https://github.com/KarimAboshamia/Verilog_ALU)
@@ -33,8 +34,11 @@ I'm interested in collaborating on open source projects and help providing neat 
 ### Operating Systems
 - [CPU scheduler Simulator](https://github.com/KarimAboshamia/CPU_Scheduler_Simulator)
 - [Router Simulator](https://github.com/KarimAboshamia/OSRouter)
+
 ### Software Engineering
 - [Rent a playground](https://github.com/KarimAboshamia/GoFo-FCAI-Project)
+
+
 #### Networking
 - [SMTP multiple servers](https://github.com/KarimAboshamia/SMTP-Multiple-servers-)
 
