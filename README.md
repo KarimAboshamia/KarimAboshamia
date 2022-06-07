@@ -22,6 +22,9 @@ I'm interested in collaborating on open source projects and help providing neat 
 - [Memory Game](https://github.com/KarimAboshamia/Memory-Game) (2018)
 - [Feed Reader Testing](https://github.com/KarimAboshamia/Feed-Reader-Testing) (2018)
 
+### Complete Projects
+- [Chinese Checkers](https://github.com/KarimAboshamia/Chinese-Checkers) (2022)
+
 ### Uncompleted Projects
 - [PrimeEV electric cars chargers e-commerce](https://github.com/KarimAboshamia/primeEVDev)
 
@@ -32,6 +35,7 @@ I'm interested in collaborating on open source projects and help providing neat 
 - [ALU in verilog](https://github.com/KarimAboshamia/Verilog_ALU)
 
 ### Operating Systems
+- [Virtual File System with Protection Layer](https://github.com/KarimAboshamia/Virtual-File-System-with-Protection-Layer/tree/master)
 - [CPU scheduler Simulator](https://github.com/KarimAboshamia/CPU_Scheduler_Simulator)
 - [Router Simulator](https://github.com/KarimAboshamia/OSRouter)
 
