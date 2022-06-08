@@ -30,6 +30,9 @@ I'm interested in collaborating on open source projects and help providing neat 
 
 ### University Projects
 
+### Computer Graphics
+- [Paint Project](https://github.com/Khaled-Waled/PaintProject-Win32)
+
 #### Computer architecture
 - [Sum and average calculator in assembly](https://github.com/KarimAboshamia/Sum_AVG_Assembly)
 - [ALU in verilog](https://github.com/KarimAboshamia/Verilog_ALU)
