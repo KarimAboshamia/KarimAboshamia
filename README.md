@@ -30,6 +30,10 @@ I'm interested in collaborating on open source projects and help providing neat 
 
 ### University Projects
 
+#### Software Engineering
+- [Payment System](https://github.com/KarimAboshamia/Payment-System)
+- [Rent a playground](https://github.com/KarimAboshamia/GoFo-FCAI-Project)
+
 #### Computer Graphics
 - [Paint Project](https://github.com/Khaled-Waled/PaintProject-Win32)
 
@@ -42,15 +46,9 @@ I'm interested in collaborating on open source projects and help providing neat 
 - [CPU scheduler Simulator](https://github.com/KarimAboshamia/CPU_Scheduler_Simulator)
 - [Router Simulator](https://github.com/KarimAboshamia/OSRouter)
 
-#### Software Engineering
-- [Rent a playground](https://github.com/KarimAboshamia/GoFo-FCAI-Project)
-
-
 #### Networking
 - [SMTP multiple servers](https://github.com/KarimAboshamia/SMTP-Multiple-servers-)
 
 #### Web technology
 - [Library System web application](https://github.com/KarimAboshamia/Library_System-Django-)
 
-
-#### ⚡ Fun fact: I'm becoming a professional table tennis player.
