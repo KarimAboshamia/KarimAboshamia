@@ -37,17 +37,24 @@ I'm interested in collaborating on open source projects and help providing neat 
 #### Computer Graphics
 - [Paint Project](https://github.com/Khaled-Waled/PaintProject-Win32)
 
+#### Data Structure
+- [Trees Implementation](https://github.com/KarimAboshamia/Tree-Structures-Implementation)
+
 #### Computer architecture
 - [Sum and average calculator in assembly](https://github.com/KarimAboshamia/Sum_AVG_Assembly)
 - [ALU in verilog](https://github.com/KarimAboshamia/Verilog_ALU)
 
 #### Operating Systems
-- [Virtual File System with Protection Layer](https://github.com/KarimAboshamia/Virtual-File-System-with-Protection-Layer/tree/master)
+- [Virtual File System with Protection Layer](https://github.com/KarimAboshamia/Virtual-File-System-with-Protection-Layer)
 - [CPU scheduler Simulator](https://github.com/KarimAboshamia/CPU_Scheduler_Simulator)
 - [Router Simulator](https://github.com/KarimAboshamia/OSRouter)
 
 #### Networking
 - [SMTP multiple servers](https://github.com/KarimAboshamia/SMTP-Multiple-servers-)
+
+#### Computer Graphics
+- [NN & CNN](https://github.com/KarimAboshamia/NN-And-CNN)
+- [KNN Implementation](https://github.com/KarimAboshamia/KNN)
 
 #### Web technology
 - [Library System web application](https://github.com/KarimAboshamia/Library_System-Django-)
