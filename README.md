@@ -52,7 +52,7 @@ I'm interested in collaborating on open source projects and help providing neat 
 #### Networking
 - [SMTP multiple servers](https://github.com/KarimAboshamia/SMTP-Multiple-servers-)
 
-#### Computer Graphics
+#### Machine Learning
 - [NN & CNN](https://github.com/KarimAboshamia/NN-And-CNN)
 - [KNN Implementation](https://github.com/KarimAboshamia/KNN)
 
